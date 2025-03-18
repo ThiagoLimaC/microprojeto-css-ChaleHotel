@@ -126,6 +126,13 @@ ul#navegacao {
     float: left;
     width: 50%;
     background: url(../imagens/bg-area-principal.png) top left repeat-x;
+    padding: 15px 0;
+}
+
+#area-lateral {
+    float: right;
+    width: 50%;
+    background: url(../imagens/bg-area-lateral.png) top left repeat-x;
     padding: 20px 0;
 }
 
@@ -138,6 +145,7 @@ ul#navegacao {
     clear: both;
     padding: 16px;
     background: #fff url(../imagens/bg-rodape.png) top repeat-x;
+    color: #7d7640;
 }
 
 /* Formatando textos */
@@ -159,6 +167,11 @@ p {
     padding: 8px;
     border-bottom: 1px solid #f3efcb;
     height: 6em;
+}
+
+#beneficios li a p {
+    font-size: 0.8em;
+    color: #000;
 }
 
 #beneficios li a p {
