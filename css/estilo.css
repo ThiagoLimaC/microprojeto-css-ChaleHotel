@@ -140,3 +140,16 @@ ul#navegacao {
     background: #fff url(../imagens/bg-rodape.png) top repeat-x;
 }
 
+/* Formatando textos */
+
+h2 {
+    color: #7d7640;
+    font-size: 1.1em;
+    padding: 5px 0px;
+}
+
+p {
+    font-size: 0.88em;
+    margin-bottom: 10px;
+}
+
