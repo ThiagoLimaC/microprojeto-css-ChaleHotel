@@ -1,6 +1,6 @@
 # Projeto Chalé Hotel
 
-![imagem projeto](imagens/print.png)
+![imagem projeto](imagens/print.PNG)
 
 ### Descrição
 ---
