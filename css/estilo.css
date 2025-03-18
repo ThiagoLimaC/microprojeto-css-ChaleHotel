@@ -169,9 +169,9 @@ p {
     height: 6em;
 }
 
-#beneficios li a p {
-    font-size: 0.8em;
-    color: #000;
+#beneficios li a img {
+    float: left;
+    margin-right: 8px;
 }
 
 #beneficios li a p {
