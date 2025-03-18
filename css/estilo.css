@@ -121,3 +121,22 @@ ul#navegacao {
 }
 
 /* Area de conteudos */
+
+#area-principal {
+    float: left;
+    width: 50%;
+    background: url(../imagens/bg-area-principal.png) top left repeat-x;
+    padding: 20px 0;
+}
+
+.conteudo {
+    margin: 0 auto;
+    width: 90%;
+}
+
+#rodape {
+    clear: both;
+    padding: 16px;
+    background: #fff url(../imagens/bg-rodape.png) top repeat-x;
+}
+
